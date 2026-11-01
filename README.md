@@ -8,6 +8,7 @@ You can check out the live demo of the application here: [Kanban Board Demo](htt
 
 ## Features
 
+- A friendly “Hi!” greeting in the application header.
 - Visual representation of tasks across different stages: To Do, In Progress, In Review, Done.
 - Drag and drop functionality to move tasks from To-do to Done stage.
 - Add, edit, and delete tasks.
